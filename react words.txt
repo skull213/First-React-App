@@ -1,0 +1,5 @@
+const - es6 word, like var but it dosnt change
+jsx allows to write html in javascript
+one component per file
+--save means save to package jason files
+onChange
